@@ -1,0 +1,17 @@
+﻿name: "personal-website"
+
+output_dir: "."
+
+navbar:
+  
+  title: "Minha página pessoal"
+  
+  left:
+    
+    - text: "Início"
+      
+      href: index.html
+    
+    - text: "Sobre mim"
+      
+      href: about.html
